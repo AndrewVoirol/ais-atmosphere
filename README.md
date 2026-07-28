@@ -9,8 +9,8 @@ A weather dashboard where every card is a real-time WebGL scene — procedural c
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/atmosphere.git
-cd atmosphere
+git clone https://github.com/AndrewVoirol/ais-atmosphere.git
+cd ais-atmosphere
 npm install --legacy-peer-deps
 npm run dev
 ```
